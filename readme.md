@@ -21,7 +21,7 @@ public class BootSpringBootApplication {
 }
 ```
 
-* [2장. 의미있는 이름]()
+* [2장. 의미있는 이름](https://github.com/igbyun86/clean-code/blob/master/2%EC%9E%A5_%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%EC%9D%B4%EB%A6%84.md)
 * [3장. 함수]()
 
 
